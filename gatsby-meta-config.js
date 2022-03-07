@@ -14,7 +14,7 @@ module.exports = {
     name: `박재현`,
     bio: {
       role: `개발자`,
-      description: ['자유로운 협업 환경을 주도하는', '간단하고 명확한 코드를 추구하는', '코드리뷰를 선호하는'],
+      description: ['자유로운 협업을 주도하는', '명확한 코드를 추구하는', '코드리뷰를 선호하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
