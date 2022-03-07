@@ -1,5 +1,5 @@
 module.exports = {
-  title: `singthecode.github.io`,
+  title: `Singco`,
   description: `singco의 개발 블로그`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://singthecode.github.io/`,
